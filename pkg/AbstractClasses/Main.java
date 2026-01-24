@@ -12,5 +12,7 @@ public class Main {
 
 //      Parent p = new parent(33);  we cannot create the objects of the abstract class because then we can access the abstract method which has no body
 
+
+//      still abstract classes doesn't support multiple inheritance because it can also have normal methods..*************************
     }
 }
