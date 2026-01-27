@@ -9,6 +9,7 @@ public class Main {
 
 //      Shape.greetings();
         Circle.greetings();
+        obj.greetings();
 
         //Static methods can be inherited but cant be overriden ********************************
         //because static method belongs to class so no maytter from which obj u try to access that gloval method will be run
