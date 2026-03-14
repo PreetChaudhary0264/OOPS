@@ -21,5 +21,9 @@ class Child{
 
     public static void main(String[] args) {
         Child obj = new Child(11);
+
+//        short a = 10;
+//        short b = 20;
+//        short c = a+b;
     }
 }
